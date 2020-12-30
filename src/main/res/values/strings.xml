@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">HealthChecker</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="delete">Delete</string>
+    <string name="add_health_rec">Add Health Record</string>
+    <string name="no_records">No Records Available</string>
+    <string name="cancel">Cancel</string>
+    <string name="todo">TODO</string>
+    <string name="tod">TODO</string>
+    <string name="name">Name:</string>
+    <string name="dob">Date of Birth:</string>
+    <string name="phone">Phone:</string>
+    <string name="feel">How you feeling:</string>
+    <string name="submit">Submit</string>
+    <string name="zero">0</string>
+    <string name="ten"> " "</string>
+    <string name="name_hint">FirstName LastName</string>
+    <string name="mm_dd_yy">MM/DD/YY</string>
+    <string name="phone_no">Phone number</string>
+    <string name="todo2">TODO</string>
+    <string name="todo3">TODO</string>
+    <string name="ten_label">10</string>
+</resources>
